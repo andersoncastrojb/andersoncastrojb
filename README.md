@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning Javascript and React Js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
-  Email: andersoncastb@gmail.com
-  Linkedin: https://www.linkedin.com/in/andersoncastrojb/
-  Youtube: https://www.youtube.com/channel/UCWKufUc2MAtXrQwyqCsXJgw (Colombo code)
-  github: https://github.com/andersoncastrojb
+- Email: andersoncastb@gmail.com
+- Linkedin: https://www.linkedin.com/in/andersoncastrojb/
+- Youtube: https://www.youtube.com/channel/UCWKufUc2MAtXrQwyqCsXJgw (Colombo code)
+- github: https://github.com/andersoncastrojb
 
 <!---
 andersoncastrojb/andersoncastrojb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
