@@ -5,7 +5,7 @@
 - 📫 How to reach me
 - Email: andersoncastb@gmail.com
 - Linkedin: https://www.linkedin.com/in/andersoncastrojb/
-- Youtube: https://www.youtube.com/channel/UCWKufUc2MAtXrQwyqCsXJgw (Colombo code)
+- Youtube: https://www.youtube.com/@andersoncastrojb
 - github: https://github.com/andersoncastrojb
 
 <!---
