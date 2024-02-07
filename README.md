@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anderson Castro, Electronic Engineer student (@andersoncastrojb).
+- 👋 Hi, I’m Anderson Castro, Electronic Engineer (@andersoncastrojb).
 - 👀 I am interested in web development, IOT, programming, embedded systems and engineering solutions.
 - 🌱 I’m currently learning Javascript and React Js.
 - 💞️ I’m looking to collaborate on ...
